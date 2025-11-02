@@ -23,7 +23,7 @@ Explore App [here](http://warm-cobbler-0ab905.netlify.app)
 - Upload, download, and delete files
 - Star and trash functionality
 - Responsive design for a seamless user experience
-- Password protected files using SHA-256 and AES
+- Password protected files using SHA-256 and AES-GSM
   
 ## Tech Stack
 
