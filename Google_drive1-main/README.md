@@ -15,7 +15,7 @@ A full-stack cloud storage application built using React, Firebase, and styled-c
 
 ## Demo
 
-Explore App [here]((http://warm-cobbler-0ab905.netlify.app))
+Explore App [here]([http://warm-cobbler-0ab905.netlify.app])
 
 ## Features
 
