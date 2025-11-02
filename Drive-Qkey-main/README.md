@@ -18,6 +18,7 @@ A full-stack cloud storage application built using React, Firebase, and styled-c
 - Upload, download, and delete files
 - Star and trash functionality
 - Responsive design for a seamless user experience
+- Password protected files using Qkey,SHA-256 and AES
 
 ## Tech Stack
 
